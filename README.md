@@ -440,17 +440,17 @@ Filtros implementados com **índices** para performance:
 
 O projeto inclui documentação detalhada sobre cada aspecto:
 
-- [`MODELAGEM_DOMINIO.md`](MODELAGEM_DOMINIO.md) - Modelagem do domínio e FSM
-- [`MODELO_RELACIONAL.md`](MODELO_RELACIONAL.md) - Modelo de dados relacional
-- [`ARQUITETURA_CAMADAS.md`](ARQUITETURA_CAMADAS.md) - Arquitetura em camadas
-- [`VALIDACAO_ESTADOS.md`](VALIDACAO_ESTADOS.md) - Validação de estados e transições
-- [`IDEMPOTENCIA.md`](IDEMPOTENCIA.md) - Implementação de idempotência
-- [`AUDITORIA_AUTOMATICA.md`](AUDITORIA_AUTOMATICA.md) - Sistema de auditoria automática
-- [`SERVICES.md`](SERVICES.md) - Documentação dos services
-- [`CONTROLLERS_REST.md`](CONTROLLERS_REST.md) - Documentação dos controllers
-- [`FILTROS_ORDENACAO_PAGINACAO.md`](FILTROS_ORDENACAO_PAGINACAO.md) - Filtros, ordenação e paginação
-- [`TESTES_OBJETIVOS.md`](TESTES_OBJETIVOS.md) - Objetivos e explicação dos testes
-- [`EXEMPLOS.md`](EXEMPLOS.md) - Exemplos de uso da API
+- [`MODELAGEM_DOMINIO.md`](docs/MODELAGEM_DOMINIO.md) - Modelagem do domínio e FSM
+- [`MODELO_RELACIONAL.md`](docs/MODELO_RELACIONAL.md) - Modelo de dados relacional
+- [`ARQUITETURA_CAMADAS.md`](docs/ARQUITETURA_CAMADAS.md) - Arquitetura em camadas
+- [`VALIDACAO_ESTADOS.md`](docs/VALIDACAO_ESTADOS.md) - Validação de estados e transições
+- [`IDEMPOTENCIA.md`](docs/IDEMPOTENCIA.md) - Implementação de idempotência
+- [`AUDITORIA_AUTOMATICA.md`](docs/AUDITORIA_AUTOMATICA.md) - Sistema de auditoria automática
+- [`SERVICES.md`](docs/SERVICES.md) - Documentação dos services
+- [`CONTROLLERS_REST.md`](docs/CONTROLLERS_REST.md) - Documentação dos controllers
+- [`FILTROS_ORDENACAO_PAGINACAO.md`](docs/FILTROS_ORDENACAO_PAGINACAO.md) - Filtros, ordenação e paginação
+- [`TESTES_OBJETIVOS.md`](docs/TESTES_OBJETIVOS.md) - Objetivos e explicação dos testes
+- [`EXEMPLOS.md`](docs/EXEMPLOS.md) - Exemplos de uso da API
 
 ---
 
